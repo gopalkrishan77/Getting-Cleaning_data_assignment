@@ -7,7 +7,7 @@ Coursera Course: Getting and Cleaning Data
 Assignment Submission Files
 - [run_analysis.R](https://github.com/gopalkrishan77/Getting-Cleaning_data_assignment/blob/master/run_analysis.R)
 - [README.md](https://github.com/gopalkrishan77/Getting-Cleaning_data_assignment/blob/master/README.md)
-- [CookBook.md](https://github.com/gopalkrishan77/Getting-Cleaning_data_assignment/blob/master/CodeBook.md)
+- [codebook.md](https://github.com/gopalkrishan77/Getting-Cleaning_data_assignment/blob/master/codebook.md)
 
 Instructions
 

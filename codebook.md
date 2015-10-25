@@ -27,7 +27,7 @@ The source data was collected from the [UCI Machine Learning Repository](http://
 12. Then applied the mean and standard deviation calculations across the groups
 13. Produced "mean_tidy_data.txt" as the second expected output
 
-Please refer to [run_analysis.R] (https://github.com/rwstang/Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R) for implementation details.
+Please refer to [run_analysis.R] (https://github.com/gopalkrishan77/Getting-Cleaning_data_assignment/blob/master/run_analysis.R) for implementation details.
 
 *Variables
 - subjectId: 1 to 30 each representing a participant in the study
@@ -99,4 +99,4 @@ Please refer to [run_analysis.R] (https://github.com/rwstang/Getting-and-Cleanin
 - fBodyBodyGyroJerkMag-mean
 - fBodyBodyGyroJerkMag-std
  
-© Gopal Krishan 2015 All Rights reserved.
+Â© Gopal Krishan 2015 All Rights reserved.

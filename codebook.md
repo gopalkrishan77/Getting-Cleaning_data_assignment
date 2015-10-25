@@ -29,7 +29,7 @@ The source data was collected from the [UCI Machine Learning Repository](http://
 
 Please refer to [run_analysis.R] (https://github.com/gopalkrishan77/Getting-Cleaning_data_assignment/blob/master/run_analysis.R) for implementation details.
 
-*Variables
+*Data points in files
 - subjectId: 1 to 30 each representing a participant in the study
 - activity: the activity that the subject was doing at the time of the measurement
 - tBodyAcc-mean-X        
